@@ -31,7 +31,6 @@
 		5E9EE1281B12E02D00CA4B1A /* gheThuong.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E9EE1241B12E02D00CA4B1A /* gheThuong.png */; };
 		5E9EE1291B12E02D00CA4B1A /* gheVIP.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E9EE1251B12E02D00CA4B1A /* gheVIP.png */; };
 		5EF134571B0F62D3003A3BBB /* ChonGheViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EF134561B0F62D3003A3BBB /* ChonGheViewController.m */; };
-		5EF134591B0F6644003A3BBB /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EF134581B0F6644003A3BBB /* back.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,7 +78,6 @@
 		5E9EE1251B12E02D00CA4B1A /* gheVIP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gheVIP.png; sourceTree = "<group>"; };
 		5EF134551B0F62D3003A3BBB /* ChonGheViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChonGheViewController.h; sourceTree = "<group>"; };
 		5EF134561B0F62D3003A3BBB /* ChonGheViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChonGheViewController.m; sourceTree = "<group>"; };
-		5EF134581B0F6644003A3BBB /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,7 +185,6 @@
 				5E9EE1231B12E02D00CA4B1A /* gheDangChon.png */,
 				5E9EE1241B12E02D00CA4B1A /* gheThuong.png */,
 				5E9EE1251B12E02D00CA4B1A /* gheVIP.png */,
-				5EF134581B0F6644003A3BBB /* back.png */,
 				5E8778381B0C395200B6A52C /* 0.jpg */,
 				5E8778391B0C395200B6A52C /* 1.jpg */,
 				5E87783A1B0C395200B6A52C /* 2.jpg */,
@@ -298,7 +295,6 @@
 				5E8778171B0C316200B6A52C /* Main.storyboard in Resources */,
 				5E87781C1B0C316200B6A52C /* LaunchScreen.xib in Resources */,
 				5E8778191B0C316200B6A52C /* Images.xcassets in Resources */,
-				5EF134591B0F6644003A3BBB /* back.png in Resources */,
 				5E8778411B0C395200B6A52C /* 3.jpg in Resources */,
 				5E87783F1B0C395200B6A52C /* 1.jpg in Resources */,
 			);
